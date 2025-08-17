@@ -47,7 +47,7 @@ A simple **Flask Web Application** to convert currencies using real-time exchang
 
 ## 🖼️ Screenshots
 
-![Currency Converter Screenshot](screenshots/output.png)
+![Currency Converter Screenshot](screenshots/currency.png)
 
 ---
 
@@ -56,3 +56,4 @@ A simple **Flask Web Application** to convert currencies using real-time exchang
 - Make sure you have a valid **Fixer.io API key** in `app.py` (`api_key` variable) before running the application.
 
 - The result will only display after entering the amount, selecting currencies, and clicking **Convert**.
+
