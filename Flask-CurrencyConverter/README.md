@@ -30,7 +30,7 @@ A simple **Flask Web Application** to convert currencies using real-time exchang
 
 2. **Navigate to the project folder**
     ```bash
-    cd CurrencyConverter
+    cd Flask-CurrencyConverter
     ```
 
 3. **Run the Flask app**
@@ -54,4 +54,5 @@ A simple **Flask Web Application** to convert currencies using real-time exchang
 ## 💡 Notes
 
 - Make sure you have a valid **Fixer.io API key** in `app.py` (`api_key` variable) before running the application.
+
 - The result will only display after entering the amount, selecting currencies, and clicking **Convert**.
